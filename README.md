@@ -28,6 +28,7 @@ Steps to Test the application
     "message": "How are you?", 
     "channel": "email"
   }
+6. 'channel' can either be "email" or "sms". For any other input it will fail for now.
 6. Negative schenarios are not handled as of now. but Junits are written for positive schenarios.
 7. Message delivery can be varified either in dummy SMTP server or if its not dummy then can be checked in receiver email
 8. Provision to have multiple channel is there in application with very minimal changes. As of now implemented for Email and mocking SMS.

@@ -6,8 +6,9 @@ Steps to launch the application.
 1. Copy repository URL and use this to import this project in eclipse.
 2. Chose 'main' branch
 3. Import notification project as Maven project in eclipse
-4. Update maven project to resolve all the dependencies
-5. Run NotificationApplication.java as Java Application, it will launch Spring Boot application in embbeded tomcat server
+4. Service is developed in Java 1.8 version.
+5. Update maven project to resolve all the dependencies
+6. Run NotificationApplication.java as Java Application, it will launch Spring Boot application in embbeded tomcat server
 
 
 Steps to Test the application
